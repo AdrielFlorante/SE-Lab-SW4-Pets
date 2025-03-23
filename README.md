@@ -2,6 +2,6 @@ The following object violates Single Responsibility Principle (SRP). Make the ad
 
 Class Pet
 petName : String<br>
-owner : String
-public makeSound() : String
+owner : String<br>
+public makeSound() : String<br>
 public eat() : String
